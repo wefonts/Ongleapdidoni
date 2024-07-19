@@ -9,7 +9,7 @@
     font-display: swap;
 }
 
-Ongleapdidoni {
+.Ongleapdidoni {
     font-family: "Ongleapdidoni";
 }
   
